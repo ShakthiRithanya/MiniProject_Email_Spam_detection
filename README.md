@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Spam Email Detection using Logistic Regression
 Project Overview
 
@@ -125,3 +126,6 @@ Claim your reward now!
 Not Spam Example:
 
 Hi, are we meeting tomorrow for the project discussion?
+=======
+# MiniProject_Email_Spam_detection
+>>>>>>> 35c04dd82d8af911955767c6875b75b2a452d6eb
